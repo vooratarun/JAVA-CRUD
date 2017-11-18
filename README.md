@@ -1,7 +1,10 @@
 # javacrud
 
 
-Java sample CRUD aplication with UI
+Java sample CRUD aplication with UI. it'a  tutorial project which was implemented using Java applets.
+Uses the Mysql database
+
+
 
 
 1.import the "crud_db.sql" into the database
